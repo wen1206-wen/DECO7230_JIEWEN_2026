@@ -3,7 +3,7 @@ using UnityEngine;
 public class DebugRotator : MonoBehaviour
 {
     public float rotationSpeed = 45f;
-    private float currentRotation = 0f;
+    public float currentRotation = 0f;  // Now public!
 
     void Update()
     {
@@ -13,9 +13,6 @@ public class DebugRotator : MonoBehaviour
         
         // Apply the rotation using currentRotation as absolute angle
         transform.rotation = Quaternion.Euler(0, currentRotation, 0);
-    
-        // This is different from last week where we were rotating it by an amount with each call.
-        // transform.Rotate(Vector3.up * rotationThisFrame);
         
         // Debug: Print the current rotation value to console
         Debug.Log("Current Rotation: " + currentRotation);
