@@ -1006,6 +1006,7 @@ GameObject:
   - component: {fileID: 963437323}
   - component: {fileID: 963437322}
   - component: {fileID: 963437327}
+  - component: {fileID: 963437328}
   m_Layer: 0
   m_Name: DebugCube
   m_TagString: Untagged
@@ -1135,6 +1136,19 @@ MonoBehaviour:
   debugCube: {fileID: 963437326}
   fallingCube: {fileID: 423619836}
   distanceToFallingCube: 0
+--- !u!114 &963437328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963437321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27a9280457c9947538a227d64aa0cfc2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SimpleRaycast
+  raycastDistance: 10
 --- !u!1 &1008689694
 GameObject:
   m_ObjectHideFlags: 0
