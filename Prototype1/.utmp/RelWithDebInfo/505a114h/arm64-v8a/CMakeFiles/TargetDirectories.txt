@@ -1,0 +1,5 @@
+/Users/wen/uq/deco7230/DECO7230_JIEWEN_2026/Prototype1/.utmp/RelWithDebInfo/505a114h/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/wen/uq/deco7230/DECO7230_JIEWEN_2026/Prototype1/.utmp/RelWithDebInfo/505a114h/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/wen/uq/deco7230/DECO7230_JIEWEN_2026/Prototype1/.utmp/RelWithDebInfo/505a114h/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/wen/uq/deco7230/DECO7230_JIEWEN_2026/Prototype1/.utmp/RelWithDebInfo/505a114h/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/wen/uq/deco7230/DECO7230_JIEWEN_2026/Prototype1/.utmp/RelWithDebInfo/505a114h/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

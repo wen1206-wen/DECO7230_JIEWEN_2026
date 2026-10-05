@@ -1,0 +1,2 @@
+/Users/wen/uq/deco7230/DECO7230_JIEWEN_2026/Prototype1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/wen/uq/deco7230/DECO7230_JIEWEN_2026/Prototype1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt
